@@ -5,6 +5,10 @@
 
 - 🔭 Capstone Project 1 [Fraud detection in credit card transactions](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone2/FinalProjectReport%20.pdf)
 - 🔭 Capstone Project 2 [Predicting Customer Insurance Policy Preferences Using Machine Learning](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3_multiclass/Shivangini_FinalPresentation_Multiclass_Capstone3.pdf)
+
+ [Jupyter Notebook](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3_multiclass/Capstone3_Multiclass.ipynb)
+
+ 
 - 🔭 Case Study 1 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
 
 - 📫 How to reach me **shivangini.chandgadkar@gmail.com**
