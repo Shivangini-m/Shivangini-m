@@ -5,7 +5,6 @@
 
 - 🔭 Capstone Project 1 [Fraud detection in credit card transactions](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone2/FinalProjectReport%20.pdf)
 - 🔭 Capstone Project 2 [Prediting Insurance Covearge Type Using ML](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3_multiclass/Shivangini_FinalPresentation_Multiclass_Capstone3.pdf)
-- 🔭 Capstone Project 3 [Fraud Detection](https://github.com/Shivangini-m/DataScienceGuidedCapstone)
 
 - 📫 How to reach me **shivangini.chandgadkar@gmail.com**
 
