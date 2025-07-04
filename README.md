@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangini-m&label=Profile%20views&color=0e75b6&style=flat" alt="shivangini-m" /> </p>
 
 - 🔭 Capstone Project 1 [Fraud detection in credit card transactions](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone2/FinalProjectReport%20.pdf)
+  - [Capstone Project 1 - Jupyter Notebook](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone2/DataWranglingCaps-2.ipynb)
 - 🔭 Capstone Project 2 [Predicting Customer Insurance Policy Preferences Using Machine Learning](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3_multiclass/Shivangini_FinalPresentation_Multiclass_Capstone3.pdf)
   - [Capstone Project 2 - Jupyter Notebook](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3_multiclass/Capstone3_Multiclass.ipynb)
 
