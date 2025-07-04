@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangini-m&label=Profile%20views&color=0e75b6&style=flat" alt="shivangini-m" /> </p>
 
+- 🔭 I’m currently working on [Fraud Detection](https://github.com/Shivangini-m/DataScienceGuidedCapstone)
+
 - 📫 How to reach me **shivangini.chandgadkar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
