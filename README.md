@@ -9,16 +9,16 @@
   - [Capstone Project 2 - Jupyter Notebook](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3_multiclass/Capstone3_Multiclass.ipynb)
 
  
-- 🔭 Case Study 1 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
-- 🔭 Case Study 2 [Linear Regression - Red Wine](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/11.4.1%20Case%20Study%20-%20Linear%20Regression/Springboard%20Regression%20Case%20Study%20-%20the%20Red%20Wine%20Dataset%20-%20Tier%203.ipynb)
-- 🔭 Case Study 3 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
-- 🔭 Case Study 4 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
-- 🔭 Case Study 5 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
-- 🔭 Case Study 6 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
-- 🔭 Case Study 7 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
-- 🔭 Case Study 8 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
-- 🔭 Case Study 9 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
-- 🔭 Case Study 10 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
+- Case Study 1 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
+- Case Study 2 [Linear Regression - Red Wine](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/11.4.1%20Case%20Study%20-%20Linear%20Regression/Springboard%20Regression%20Case%20Study%20-%20the%20Red%20Wine%20Dataset%20-%20Tier%203.ipynb)
+- Case Study 3 [GridSearchKNN](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/1600185186_GridSearchKNN_Case_Study/GridSearchKNN_Case_Study.ipynb)
+- Case Study 4 [Gradient_Boosting](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/1601612507_Gradient_Boosting_Case_Study_updated_10_01_2020/Gradient%20Boosting%20Case%20Study.ipynb)
+- Case Study 5 [Clustering - Customer Segmentation with K-Means](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/1602764303_Clustering_Case_Study_updated_10_15_2020/Clustering%20Case%20Study%20-%20Customer%20Segmentation%20with%20K-Means%20-%20Tier%203.ipynb)
+- Case Study 6 [Euclidean_and_Manhattan_Distances](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/1605005916_Euclidean_and_Manhattan_Distances_Case_Study_11102020/Euclidean_and_Manhattan_Distances_Case_Study.ipynb)
+- Case Study 7 [Decision Tree - Specialty_Coffee](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/1613148038_Springboard_Decision_Tree_Specialty_Coffee_Case_Study_28012021_2_/Springboard%20Decision%20Tree%20Specialty%20Coffee%20Case%20Study%20-%20Tier%203.ipynb)
+- Case Study 8 [Bayesian Optimization](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/18.2.6%20-%20Bayesian%20Optimization/Bayesian_optimization_case_study.ipynb)
+- Case Study 9 [CosineSimilarity](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/CosineSimilarityCaseStudy/Cosine_Similarity_Case_Study.ipynb)
+- Case Study 10 [Logistic Regression ](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Logistic%20Regression%20Advanced%20Case%20Study%20-LU-%208_23/Logistic%20Regression%20Advanced%20Case%20Study.ipynb)
                 
 
 - 📫 How to reach me **shivangini.chandgadkar@gmail.com**
