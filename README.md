@@ -11,7 +11,7 @@
 
      
 - Capstone Project 2 [Predicting Customer Insurance Policy Preferences Using Machine Learning](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3_multiclass/Shivangini_FinalPresentation_Multiclass_Capstone3.pdf)
-   - Capstone Project 2 Code [Jupyter Notebook](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3_multiclass/Capstone3_Multiclass.ipynb)
+   - Project 2 Code [Jupyter Notebook](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3_multiclass/Capstone3_Multiclass.ipynb)
 
 <h3>Case Studies</h3>
 
