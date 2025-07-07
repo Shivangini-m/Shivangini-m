@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangini-m&label=Profile%20views&color=0e75b6&style=flat" alt="shivangini-m" /> </p>
 
 
-<h3>Projects</h3>
+<h3>SprigBoard Projects</h3>
 
 - Capstone Project 1 [Guided Project](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Guided%20Capstone/Guided%20Capstone%20Project%20Presentation.pdf)
    - Project 1 [Report](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Guided%20Capstone/Guided%20Capstone%20Project%20Report.pdf)
@@ -22,6 +22,11 @@
    - Project 3 [Report](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3_multiclass/Shivangini_FinalProjectReport_Multiclass_Capstone3.pdf)
    - Project 3 [Code Jupyter Notebook](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3_multiclass/Capstone3_Multiclass.ipynb)
    - Tableau - [EDA Using Tableau](https://public.tableau.com/app/profile/shivangini.marjiwe/viz/Capstone3_EDA_story/Capstone3_story)
+
+
+<h3>Personal Projects</h3>
+
+- Project [Code Jupyter Notebook](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3/CapstoneProject3.ipynb)
 
 <h3>Case Studies</h3>
 
