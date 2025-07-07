@@ -7,7 +7,7 @@
 <h3>Projects</h3>
 
 - Capstone Project 1 [Guided Project](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Guided%20Capstone/Guided%20Capstone%20Project%20Presentation.pdf)
-   - Project 1 Report [Jupyter Notebook](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Guided%20Capstone/Guided%20Capstone%20Project%20Report.pdf)
+   - Project 1 Report [Report](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Guided%20Capstone/Guided%20Capstone%20Project%20Report.pdf)
    - Project 1 Code [Data Wrangling](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Notebooks/02_data_wrangling.ipynb)
    - Project 1 Code [EDA](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Notebooks/03_exploratory_data_analysis.ipynb)
    - Project 1 Code [Preprocessing_and_Training](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Notebooks/04_preprocessing_and_training.ipynb)
