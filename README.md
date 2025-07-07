@@ -9,6 +9,7 @@
   - [Capstone Project 2 - Jupyter Notebook](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3_multiclass/Capstone3_Multiclass.ipynb)
 
 <h3 align="center">Case Studies</h3>
+
 - Case Study 1 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
 - Case Study 2 [Linear Regression - Red Wine](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/11.4.1%20Case%20Study%20-%20Linear%20Regression/Springboard%20Regression%20Case%20Study%20-%20the%20Red%20Wine%20Dataset%20-%20Tier%203.ipynb)
 - Case Study 3 [GridSearchKNN](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/1600185186_GridSearchKNN_Case_Study/GridSearchKNN_Case_Study.ipynb)
