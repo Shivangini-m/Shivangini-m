@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangini-m&label=Profile%20views&color=0e75b6&style=flat" alt="shivangini-m" /> </p>
 
 
-<h3>SprigBoard Projects</h3>
+<h3>SpringBoard Projects</h3>
 
 - Capstone Project 1 [Guided Project](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Guided%20Capstone/Guided%20Capstone%20Project%20Presentation.pdf)
    - Project 1 [Report](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Guided%20Capstone/Guided%20Capstone%20Project%20Report.pdf)
@@ -28,7 +28,7 @@
 
 - Project [Code Jupyter Notebook](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3/CapstoneProject3.ipynb)
 
-<h3>Case Studies</h3>
+<h3>SpringBoard Case Studies</h3>
 
 - Case Study 1 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
 - Case Study 2 [Linear Regression - Red Wine](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/11.4.1%20Case%20Study%20-%20Linear%20Regression/Springboard%20Regression%20Case%20Study%20-%20the%20Red%20Wine%20Dataset%20-%20Tier%203.ipynb)
