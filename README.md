@@ -5,6 +5,7 @@
 
 
 <h3>Projects</h3>
+
 - Capstone Project 1 [Guided Project](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Guided%20Capstone/Guided%20Capstone%20Project%20Presentation.pdf)
    - Project 1 Code [Jupyter Notebook](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Guided%20Capstone/Guided%20Capstone%20Project%20Report.pdf)
 
