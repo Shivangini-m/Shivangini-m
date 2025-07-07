@@ -26,6 +26,7 @@
 - Case Study 8 [Bayesian Optimization](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/18.2.6%20-%20Bayesian%20Optimization/Bayesian_optimization_case_study.ipynb)
 - Case Study 9 [CosineSimilarity](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/CosineSimilarityCaseStudy/Cosine_Similarity_Case_Study.ipynb)
 - Case Study 10 [Logistic Regression ](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Logistic%20Regression%20Advanced%20Case%20Study%20-LU-%208_23/Logistic%20Regression%20Advanced%20Case%20Study.ipynb)
+- Case Study 11[Tableau - Chem Corp](https://public.tableau.com/app/profile/shivangini.marjiwe/viz/ChemCorpCaseStudy_17426583348020/ChemCorpStory)
                 
 
 - 📫 How to reach me **shivangini.chandgadkar@gmail.com**
