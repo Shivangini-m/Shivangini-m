@@ -14,6 +14,7 @@
    - Project 1 [Modeling](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Notebooks/05_modeling.ipynb)
 
 - Capstone Project 2 [Fraud detection in credit card transactions](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone2/CapstoneTwo%20Presentation.pdf)
+   - Project 2 [Report](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone2/FinalProjectReport%20.pdf)
    - Project 2 Code [Jupyter Notebook](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone2/DataWranglingCaps-2.ipynb)
 
      
