@@ -7,7 +7,7 @@
 <h3>Projects</h3>
 
 - Capstone Project 1 [Fraud detection in credit card transactions](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone2/CapstoneTwo%20Presentation.pdf)
-   - Capstone Project 1 Code [Jupyter Notebook](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone2/DataWranglingCaps-2.ipynb)
+   - Project 1 Code [Jupyter Notebook](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone2/DataWranglingCaps-2.ipynb)
 
      
 - Capstone Project 2 [Predicting Customer Insurance Policy Preferences Using Machine Learning](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3_multiclass/Shivangini_FinalPresentation_Multiclass_Capstone3.pdf)
