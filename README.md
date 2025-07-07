@@ -21,7 +21,7 @@
 - Capstone Project 3 [Predicting Customer Insurance Policy Preferences Using Machine Learning](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3_multiclass/Shivangini_FinalPresentation_Multiclass_Capstone3.pdf)
    - Project 3 [Report](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3_multiclass/Shivangini_FinalProjectReport_Multiclass_Capstone3.pdf)
    - Project 3 [Code Jupyter Notebook](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Capstone3_multiclass/Capstone3_Multiclass.ipynb)
-   - Tableau - [EDA Using Tableau](https://public.tableau.com/app/profile/shivangini.marjiwe/viz/Capstone3_EDA_story/Capstone3_story)
+   - Tableau   [EDA Using Tableau](https://public.tableau.com/app/profile/shivangini.marjiwe/viz/Capstone3_EDA_story/Capstone3_story)
 
 
 <h3>Personal Projects</h3>
