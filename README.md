@@ -10,6 +10,16 @@
 
  
 - 🔭 Case Study 1 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
+- 🔭 Case Study 2 [Linear Regression - Red Wine](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/11.4.1%20Case%20Study%20-%20Linear%20Regression/Springboard%20Regression%20Case%20Study%20-%20the%20Red%20Wine%20Dataset%20-%20Tier%203.ipynb)
+- 🔭 Case Study 3 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
+- 🔭 Case Study 4 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
+- 🔭 Case Study 5 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
+- 🔭 Case Study 6 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
+- 🔭 Case Study 7 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
+- 🔭 Case Study 8 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
+- 🔭 Case Study 9 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
+- 🔭 Case Study 10 [Random Forest - Covid 19](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/RandomForest%20Covid%20Case%20Study_06302020/RandomForest_casestudy_covid19.ipynb)
+                
 
 - 📫 How to reach me **shivangini.chandgadkar@gmail.com**
 
