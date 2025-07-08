@@ -43,7 +43,7 @@
 - Case Study 11 [Tableau - Chem Corp](https://public.tableau.com/app/profile/shivangini.marjiwe/viz/ChemCorpCaseStudy_17426583348020/ChemCorpStory)
                 
 <h3 align="left">How to reach  me:</h3>
-<a href="mailto:shivangini.chandgadkar@gmail.com">How to reach me — shivangini.chandgadkar@gmail.com</a>
+<a href="mailto:shivangini.chandgadkar@gmail.com"> shivangini.chandgadkar@gmail.com</a>
 
 
 
