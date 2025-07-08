@@ -42,7 +42,7 @@
 - Case Study 10 [Logistic Regression](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Logistic%20Regression%20Advanced%20Case%20Study%20-LU-%208_23/Logistic%20Regression%20Advanced%20Case%20Study.ipynb)
 - Case Study 11 [Tableau - Chem Corp](https://public.tableau.com/app/profile/shivangini.marjiwe/viz/ChemCorpCaseStudy_17426583348020/ChemCorpStory)
                 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to reach  me:</h3>
 shivangini.chandgadkar@gmail.com
 
 <h3 align="left">Connect with me:</h3>
