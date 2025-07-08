@@ -6,7 +6,7 @@
 
 <h3>SpringBoard Projects</h3>
 
-- Capstone Project 1 [Guided Project](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Guided%20Capstone/Guided%20Capstone%20Project%20Presentation.pdf)
+- Capstone Project 1 [mproving Profitability at Big Mountain Resort: A Machine Learning Approach](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Guided%20Capstone/Guided%20Capstone%20Project%20Presentation.pdf)
    - Project 1 [Report](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Guided%20Capstone/Guided%20Capstone%20Project%20Report.pdf)
    - Project 1 [Data Wrangling](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Notebooks/02_data_wrangling.ipynb)
    - Project 1 [EDA](https://github.com/Shivangini-m/DataScienceGuidedCapstone/blob/master/Notebooks/03_exploratory_data_analysis.ipynb)
