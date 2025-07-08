@@ -43,7 +43,7 @@
 - Case Study 11 [Tableau - Chem Corp](https://public.tableau.com/app/profile/shivangini.marjiwe/viz/ChemCorpCaseStudy_17426583348020/ChemCorpStory)
                 
 <h3 align="left">Connect with me:</h3>
-- shivangini.chandgadkar@gmail.com
+shivangini.chandgadkar@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
