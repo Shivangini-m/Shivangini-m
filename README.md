@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivangini Marjiwe</h1>
-<h3 align="center">I am Data professional passionate about all things related to data !</h3>
+<h3 align="center"> Exploring the World of Data: Analytics, Machine Learning, and Storytelling !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivangini-m&label=Profile%20views&color=0e75b6&style=flat" alt="shivangini-m" /> </p>
 
